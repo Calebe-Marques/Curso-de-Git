@@ -2,7 +2,7 @@
 
 **Este repo foi criado para estudos de git e Github, o foco dele não é armazenar nenhum projeto em específico.**
 
-### Principais temas abordados no curso:
+### Principais temas abordados no curso🎯:
 
 * Comandos básicos e avançados do Git;
 * Fluxo completo de controle de versão de um projeto (Code Review, Pull Request, Issues e etc.);
