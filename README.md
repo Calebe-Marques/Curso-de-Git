@@ -1,6 +1,6 @@
 # Curso de Git e GitHub
 
-**Este repo foi criado para estudos de git e Github, o foco dele não é armazenar nenhum projeto em específico.**
+**Este repo foi criado para estudos de Git e Github, o foco dele não é armazenar nenhum projeto ou portifólio em específico.**
 
 ### Principais temas abordados no curso🎯:
 
@@ -10,3 +10,7 @@
 * Criação de portifólio com o GitHub Pages;
 * Criação e compartilhamento de gists;
 * Criação e edição de documentos com Markdown
+
+### Observações:
+
+**O portifólio criado não é oficial e só foi criado para fins de estudo e acompanhamento do curso que estou fazendo**
