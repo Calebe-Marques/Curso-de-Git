@@ -174,3 +174,49 @@
     font-size: 42px;
     margin-right: 10px;
 }
+
+@media(max-width: 500px){
+    #container{
+        flex-direction: column;
+    }
+
+    #bio-container{
+        justify-content: center;
+        align-items: center;
+        min-height: auto;
+        border-right: none;
+        border-bottom: 5px solid var(--bio-border-color);
+    }
+
+    #bio-container h2{
+        display: none;
+    }
+
+    #bio-container p{
+        margin: 10px 0;
+    }
+    #bio-container p{
+        margin: 10px 0;
+    }
+
+    #bout-container .description{
+        margin: 10px auto;
+        max-width: 100;
+        line-height: 26px;
+    }
+
+    #btn-projects{
+        margin: 20px auto;
+    }
+
+    .skills-box{
+        flex: 1 1 100%;
+        max-width: 100%;
+        margin-bottom: 40px;
+        text-align: left;
+    }
+
+    .skills-box i{
+        font-size: 60px;
+    }
+}
